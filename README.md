@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sirati Hirunthani (Barw)</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
-- 🌱 I’m currently learning **ReactJs,NextJs,C++,SFML** - 💬 Ask me about
+<li>🌱 I’m currently learning **ReactJs,NextJs,C++,SFML** </li>
+<li>💬 Ask me about</li>
   **C++,Javascript,PHP**
 
 <h3 align="left">Languages and Tools:</h3>
