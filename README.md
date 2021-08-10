@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
 <li>🌱 I’m currently learning **ReactJs,NextJs,C++,SFML** </li>
-<li>💬 Ask me about **C++,Javascript,PHP,SQL or Database Manager**</li>
+<li>💬 Ask me about **C++,Javascript,PHP,SQL or Database Management**</li>
   
 
 <h3 align="left">Languages and Tools:</h3>
