@@ -206,6 +206,10 @@
       width="40"
   /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barwsirati&show_icons=true&locale=en&layout=compact" alt="barwsirati" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barwsirati&show_icons=true&locale=en" alt="barwsirati" /></p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barwsirati&show_icons=true&locale=en&layout=compact" alt="barwsirati" />
+    &nbsp;
+    <img  src="https://github-readme-stats.vercel.app/api?username=barwsirati&show_icons=true&locale=en" alt="barwsirati" />
+  </p>
+
