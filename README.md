@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sirati Hirunthani (Barw)</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barwsirati&label=Profile%20views&color=0e75b6&style=flat" alt="barwsirati" /> </p>
 <li>🌱 I’m currently learning **ReactJs,NextJs,C++,SFML** </li>
 <li>💬 Ask me about **C++,Javascript,PHP,SQL or Database Management**</li>
   
@@ -205,3 +206,6 @@
       width="40"
   /></a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barwsirati&show_icons=true&locale=en&layout=compact" alt="barwsirati" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barwsirati&show_icons=true&locale=en" alt="barwsirati" /></p>
