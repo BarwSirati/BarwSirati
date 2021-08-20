@@ -208,8 +208,8 @@
 </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barwsirati&show_icons=true&locale=en&layout=compact" alt="barwsirati" />
+    <img align ="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barwsirati&show_icons=true&locale=en&layout=compact" alt="barwsirati" />
     &nbsp;
-    <img  src="https://github-readme-stats.vercel.app/api?username=barwsirati&show_icons=true&locale=en" alt="barwsirati" />
+    <img align="right"  src="https://github-readme-stats.vercel.app/api?username=barwsirati&show_icons=true&locale=en" alt="barwsirati" />
   </p>
 
