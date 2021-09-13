@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barwsirati&label=Profile%20views&color=0e75b6&style=flat" alt="barwsirati" /> </p>
 <li>🌱 I’m currently learning **ReactJs,NextJs,C++,SFML,India Accent** </li>
-<li>💬 Ask me about **C++,Javascript,PHP,SQL or Database Management**</li>
+<li>💬 Ask me about **SFML,C++,Javascript,PHP,SQL or Database Management**</li>
   
 
 <h3 align="left">Languages and Tools:</h3>
