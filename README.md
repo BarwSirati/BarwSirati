@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sirati Hirunthani (Barw)</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h3 align="center">A passionate Cyber Security from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barwsirati&label=Profile%20views&color=0e75b6&style=flat" alt="barwsirati" /> </p>
-<li>🌱 I’m currently learning **ReactJs,NextJs,Java,JavaFx** </li>
+<li>🌱 I’m currently learning **Nodejs** </li>
 <li>💬 Ask me about **SFML,C++,Javascript,PHP,SQL or Database Management**</li>
   
 
