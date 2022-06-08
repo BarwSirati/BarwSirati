@@ -7,10 +7,9 @@
     alt="barwsirati"
   />
 </p>
-<li>🌱 I’m currently learning **Nodejs**</li>
+<li>🌱 I’m currently learning **OWASP Top10**</li>
 <li>
-  💬 Ask me about **SFML,C++,C,Javascript,Typescript,Database
-  Management,Docker**
+  💬 Ask me about **Javascript,Typescript,Docker,Basic Network,Basic Security**
 </li>
 
 <h3 align="left">Languages and Tools:</h3>
