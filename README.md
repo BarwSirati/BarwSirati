@@ -8,6 +8,10 @@
   <img height="150" src="https://i.pinimg.com/originals/eb/88/fc/eb88fcd3d225579f10b4caaf09805621.gif"  />
 </div>
 
+<div>
+  Medium : <a href="https://medium.com/@sirati10546" target="_blank">BXDMAN</a>
+</div>
+
 ###
 
 <div align="left">
